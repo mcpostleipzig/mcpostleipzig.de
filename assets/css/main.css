@@ -99,7 +99,6 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-re
 
 /* Type */
 body, input, select, textarea {
-  color: #7f888f;
   color: #333;
   font-family: var(--body-font);
   font-size: 13pt;
@@ -195,7 +194,6 @@ h6 {
     font-size: 2em;
     line-height: 1.4;
   }
-
   h2 {
     font-size: 1.5em;
   }
@@ -2724,7 +2722,7 @@ sup {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  line-height: 1.2;
+  line-height: 1.5;
   margin-top: 2em;
 }
 .post__bio h3 {
@@ -2844,9 +2842,8 @@ sup {
   font-family: var(--heading-font);
   font-size: 1em;
   font-weight: var(--font-weight-normal);
-  letter-spacing: 0.075em;
   margin-top: -0.5em;
-  text-transform: uppercase;
+  max-width: 900px;
 }
 
 .author-header > img {
