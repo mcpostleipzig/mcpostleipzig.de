@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.mcpostleipzig.de/lisa-kirmse-beim-hard-enduro-series-germany/",
+            "url": "https://www.mcpostleipzig.de/lisa-kirmse-beim-hard-enduro-series-germany/",
+            "title": "Lisa Kirmse beim Hard Enduro Series Germany",
+            "summary": "Während unsere Speedway-Fahrer in Döhren und zwei unserer Trialer in Mühlberg waren, ist unsere Trialerin Lisa Kirmse mit ihrer KTM im Rahmen der Hard Enduro Series Germany beim&nbsp;Heaven or Hell Xtreme Enduro in Crimmitschau an den Start gegangen. Lisa konnte in ihrer Wertung den dritten&hellip;",
+            "content_html": "\n  <p>\n    Während unsere Speedway-Fahrer in Döhren und zwei unserer Trialer in Mühlberg waren, ist unsere Trialerin Lisa Kirmse mit ihrer KTM im Rahmen der Hard Enduro Series Germany beim&nbsp;Heaven or Hell Xtreme Enduro in Crimmitschau an den Start gegangen. Lisa konnte in ihrer Wertung den dritten Platz belegen und liefert damit einen glänzenden Beleg dafür, dass sich <a href=\"https://www.mcpostleipzig.de/trial-training/\">Trial-Training</a>&nbsp;für Enduro-Fahrer auszahlt.\n  </p>",
+            "image": "https://www.mcpostleipzig.de/media/posts/51/c6810cd06aa3633b5858539ae51b9afc2a2492d8.jpg",
+            "author": {
+                "name": "Aramís Concepción Durán"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-03T09:40:01+02:00",
+            "date_modified": "2023-05-03T09:40:55+02:00"
+        },
+        {
             "id": "https://www.mcpostleipzig.de/mc-post-beim-mc-muehlberg/",
             "url": "https://www.mcpostleipzig.de/mc-post-beim-mc-muehlberg/",
             "title": "MC Post beim MC Mühlberg",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2022-12-24T10:25:00+01:00",
             "date_modified": "2023-01-26T10:26:04+01:00"
-        },
-        {
-            "id": "https://www.mcpostleipzig.de/unsere-neuen-videos/",
-            "url": "https://www.mcpostleipzig.de/unsere-neuen-videos/",
-            "title": "Unsere neuen Videos",
-            "summary": "Wir haben zwei neue, sehenswerte Videos für euch auf Youtube veröffentlicht: Talents Team Trophy 24. September 2022 | Speedway MC Post Leipzig e.V. | Motodrom am Cottaweg GESPANNMASTERS Finale DIE DOKUMENTATION | Motodrom am Cottaweg | MC Post Leipzig e.V",
-            "content_html": "\n  <p>\n    Wir haben zwei neue, sehenswerte Videos für euch auf Youtube veröffentlicht:\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <a href=\"https://www.youtube.com/watch?v=pTVm4v-eiu8\">\n        <img loading=\"lazy\" src=\"https://www.mcpostleipzig.de/media/posts/35/9ff4391103a341b13f95436579428ba07ee737d6.jpg\" height=\"720\" width=\"1280\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.mcpostleipzig.de/media/posts/35/responsive/9ff4391103a341b13f95436579428ba07ee737d6-xs.jpg 300w ,https://www.mcpostleipzig.de/media/posts/35/responsive/9ff4391103a341b13f95436579428ba07ee737d6-sm.jpg 480w ,https://www.mcpostleipzig.de/media/posts/35/responsive/9ff4391103a341b13f95436579428ba07ee737d6-md.jpg 768w\">\n      </a>\n      <figcaption>Talents Team Trophy 24. September 2022 | Speedway MC Post Leipzig e.V. | Motodrom am Cottaweg</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <a href=\"https://www.youtube.com/watch?v=REcbILbqOsY\">\n        <img loading=\"lazy\" src=\"https://www.mcpostleipzig.de/media/posts/35/5ecf4ae444de99ddfda169952599c71778e088e5.jpg\" height=\"720\" width=\"1280\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.mcpostleipzig.de/media/posts/35/responsive/5ecf4ae444de99ddfda169952599c71778e088e5-xs.jpg 300w ,https://www.mcpostleipzig.de/media/posts/35/responsive/5ecf4ae444de99ddfda169952599c71778e088e5-sm.jpg 480w ,https://www.mcpostleipzig.de/media/posts/35/responsive/5ecf4ae444de99ddfda169952599c71778e088e5-md.jpg 768w\">\n      </a>\n      <figcaption>GESPANNMASTERS Finale DIE DOKUMENTATION | Motodrom am Cottaweg | MC Post Leipzig e.V</figcaption>\n    </figure>",
-            "image": "https://www.mcpostleipzig.de/media/posts/35/164a6655280e6b6449445ac756662c681980e5ef.jpg",
-            "author": {
-                "name": "Aramís Concepción Durán"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-12-05T10:08:00+01:00",
-            "date_modified": "2023-01-26T10:21:53+01:00"
         }
     ]
 }
