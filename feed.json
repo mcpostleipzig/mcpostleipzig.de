@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.mcpostleipzig.de/mc-post-beim-msc-dohren/",
+            "url": "https://www.mcpostleipzig.de/mc-post-beim-msc-dohren/",
+            "title": "MC Post beim MSC Dohren",
+            "summary": "Unsere Speedway-Fahrer Bruno Thomas, Magnus Rau, Manuel Rau und Tim Lumpitzsch gingen am 22. und 23. April beim MSC Dohren e.V. an den Start. Manuel startete beim NBM-Lauf am Samstag in der 500 ccm Klasse. Bruno und Magnus gingen in der 250 ccm Klasse an&hellip;",
+            "content_html": "\n  <p>\n    Unsere Speedway-Fahrer Bruno Thomas, Magnus Rau, Manuel Rau und Tim Lumpitzsch gingen am 22. und 23. April beim MSC Dohren e.V. an den Start. Manuel startete beim NBM-Lauf am Samstag in der 500 ccm Klasse. Bruno und Magnus gingen in der 250 ccm Klasse an das Startband. Beim TTT-Lauf am Sonntag wollte auch Eric Barth für den MC Post Leipzig Punkte holen. Leider hatte Eric Motorprobleme, so dass Tim ohne seinen Teampartner auskommen und allein auf Punktejagd gehen musste.\n  </p>\n\n    <h2 id=\"unsere-ergebnisse\">\n      Unsere Ergebnisse\n    </h2>\n\n  <ul>\n    <li>Manuel Rau, NBM 500 ccm: Platz 5</li><li>Bruno Thomas, NBM 250 ccm: Platz 5</li><li>Magnus Rau, NBM 250 ccm: Platz 6</li><li>Tim Lumpitzsch, TTT 125 ccm: Platz 4 (als Einzelstarter)</li>\n  </ul>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://www.mcpostleipzig.de/media/posts/49/2983e782b12de8dbda937c170bad9a2d47768505-2.jpg\" height=\"349\" width=\"720\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.mcpostleipzig.de/media/posts/49/responsive/2983e782b12de8dbda937c170bad9a2d47768505-2-xs.jpg 300w ,https://www.mcpostleipzig.de/media/posts/49/responsive/2983e782b12de8dbda937c170bad9a2d47768505-2-sm.jpg 480w ,https://www.mcpostleipzig.de/media/posts/49/responsive/2983e782b12de8dbda937c170bad9a2d47768505-2-md.jpg 768w\">\n      \n    </figure>",
+            "image": "https://www.mcpostleipzig.de/media/posts/49/457e3e00a3cdd4cb2ed209e571badebaa5a28038-2.jpg",
+            "author": {
+                "name": "Aramís Concepción Durán"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-03T08:56:19+02:00",
+            "date_modified": "2023-05-03T09:04:35+02:00"
+        },
+        {
             "id": "https://www.mcpostleipzig.de/mc-post-update-nbm-und-otm/",
             "url": "https://www.mcpostleipzig.de/mc-post-update-nbm-und-otm/",
             "title": "MC Post Update: NBM und OTM",
@@ -143,20 +158,6 @@
             ],
             "date_published": "2022-12-04T09:58:00+01:00",
             "date_modified": "2023-01-26T10:19:50+01:00"
-        },
-        {
-            "id": "https://www.mcpostleipzig.de/danke-bahnsport-aktuell/",
-            "url": "https://www.mcpostleipzig.de/danke-bahnsport-aktuell/",
-            "title": "Danke Bahnsport Aktuell",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://www.mcpostleipzig.de/media/posts/33/d793bb47694737297f367afc9f031d5ba081347a.jpg\" height=\"858\" width=\"612\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.mcpostleipzig.de/media/posts/33/responsive/d793bb47694737297f367afc9f031d5ba081347a-xs.jpg 300w ,https://www.mcpostleipzig.de/media/posts/33/responsive/d793bb47694737297f367afc9f031d5ba081347a-sm.jpg 480w ,https://www.mcpostleipzig.de/media/posts/33/responsive/d793bb47694737297f367afc9f031d5ba081347a-md.jpg 768w\">\n      \n    </figure>",
-            "image": "https://www.mcpostleipzig.de/media/posts/33/9e03cfaa64152a6233901ac32faebeea8138d9b5-2.jpg",
-            "author": {
-                "name": "Aramís Concepción Durán"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-11-30T09:39:00+01:00",
-            "date_modified": "2023-01-26T10:16:42+01:00"
         }
     ]
 }
