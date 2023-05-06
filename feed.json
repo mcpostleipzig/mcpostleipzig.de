@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.mcpostleipzig.de/stadtsportbund-ehrt-kay-dobeck/",
+            "url": "https://www.mcpostleipzig.de/stadtsportbund-ehrt-kay-dobeck/",
+            "title": "Stadtsportbund ehrt Kay Dobeck",
+            "summary": "Der Stadtsportbund Leipzig&nbsp;dankt dem MC Postler Kay Dobeck für sein ehrenamtliches Engagement im Leipziger Vereinssport. Lest hier den Ehrenamtssteckbrief, den der Stadtsportbund zu Kay veröffentlicht hat. Kay ist seit 2011 im MC Post Leipzig aktiv. Er hat den Verein durch schwierige Zeiten begleitet und dann&hellip;",
+            "content_html": "\n  <p>\n    Der <a href=\"https://www.ssb-leipzig.de/\">Stadtsportbund Leipzig</a>&nbsp;dankt dem MC Postler Kay Dobeck für sein ehrenamtliches Engagement im Leipziger Vereinssport. Lest hier den Ehrenamtssteckbrief, den der Stadtsportbund zu Kay veröffentlicht hat.\n  </p>\n\n  <ul>\n    <li>🔗 <a href=\"https://www.mcpostleipzig.de/media/files/e9ebc04971afc46d8f571a4f0ffcd590687e3f7d.pdf\">SSBL Steckbrief Kay Dobeck</a></li>\n  </ul>\n\n  <p>\n    Kay ist seit 2011 im MC Post Leipzig aktiv. Er hat den Verein durch schwierige Zeiten begleitet und dann im Dezember 2022 sein Amt im Vorstand für eine dringend benötigte Verschnaufpause niedergelegt. Sein Engagement im MC Post ist aber weiterhin groß. Er organisiert und plant und berät und schiebt an wo es nur geht, um den Verein voranzubringen. Insbesondere die Förderung der Sportjugend liegt Kay sehr am Herzen.\n  </p>\n\n  <p>\n    Kay, wir möchten dir an der Stelle auch ganz herzlich danken für die Zeit und die Kraft, die du in den Verein investierst. Wir haben gemeinsam noch viel vor!\n  </p>",
+            "image": "https://www.mcpostleipzig.de/media/posts/53/5f1cda008dd64d6d9c1aff6dabc6d3bf1b7184dd.jpg",
+            "author": {
+                "name": "Aramís Concepción Durán"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-06T08:20:35+02:00",
+            "date_modified": "2023-05-06T08:20:35+02:00"
+        },
+        {
             "id": "https://www.mcpostleipzig.de/lisa-kirmse-beim-hard-enduro-series-germany/",
             "url": "https://www.mcpostleipzig.de/lisa-kirmse-beim-hard-enduro-series-germany/",
             "title": "Lisa Kirmse beim Hard Enduro Series Germany",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2023-01-27T14:59:00+01:00",
             "date_modified": "2023-01-28T15:00:43+01:00"
-        },
-        {
-            "id": "https://www.mcpostleipzig.de/weihnachtsgruesse/",
-            "url": "https://www.mcpostleipzig.de/weihnachtsgruesse/",
-            "title": "Weihnachtsgrüße",
-            "summary": "Zum Video auf Youtube",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <a href=\"https://www.youtube.com/watch?v=NX6HR27L7GU\">\n        <img loading=\"lazy\" src=\"https://www.mcpostleipzig.de/media/posts/36/yt.svg\" height=\"false\" width=\"false\" alt=\"\" >\n      </a>\n      <figcaption>Zum Video auf Youtube</figcaption>\n    </figure>",
-            "image": "https://www.mcpostleipzig.de/media/posts/36/6f1ba824a49e69c833bace278811855ecb3f30ac.jpg",
-            "author": {
-                "name": "Aramís Concepción Durán"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-12-24T10:25:00+01:00",
-            "date_modified": "2023-01-26T10:26:04+01:00"
         }
     ]
 }

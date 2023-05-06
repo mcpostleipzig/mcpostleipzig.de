@@ -3,12 +3,50 @@
     <title>MC Post Leipzig e.V. im ADAC</title>
     <link href="https://www.mcpostleipzig.de/feed.xml" rel="self" />
     <link href="https://www.mcpostleipzig.de" />
-    <updated>2023-05-04T15:49:05+02:00</updated>
+    <updated>2023-05-06T08:20:35+02:00</updated>
     <author>
         <name>Aramís Concepción Durán</name>
     </author>
     <id>https://www.mcpostleipzig.de</id>
 
+    <entry>
+        <title>Stadtsportbund ehrt Kay Dobeck</title>
+        <author>
+            <name>Aramís Concepción Durán</name>
+        </author>
+        <link href="https://www.mcpostleipzig.de/stadtsportbund-ehrt-kay-dobeck/"/>
+        <id>https://www.mcpostleipzig.de/stadtsportbund-ehrt-kay-dobeck/</id>
+        <media:content url="https://www.mcpostleipzig.de/media/posts/53/5f1cda008dd64d6d9c1aff6dabc6d3bf1b7184dd.jpg" medium="image" />
+
+        <updated>2023-05-06T08:20:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.mcpostleipzig.de/media/posts/53/5f1cda008dd64d6d9c1aff6dabc6d3bf1b7184dd.jpg" alt="Foto Credit: Stadtsportbund Leipzig" />
+                    Der Stadtsportbund Leipzig&nbsp;dankt dem MC Postler Kay Dobeck für sein ehrenamtliches Engagement im Leipziger Vereinssport. Lest hier den Ehrenamtssteckbrief, den der Stadtsportbund zu Kay veröffentlicht hat. Kay ist seit 2011 im MC Post Leipzig aktiv. Er hat den Verein durch schwierige Zeiten begleitet und dann&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.mcpostleipzig.de/media/posts/53/5f1cda008dd64d6d9c1aff6dabc6d3bf1b7184dd.jpg" class="type:primaryImage" alt="Foto Credit: Stadtsportbund Leipzig" /></p>
+                
+  <p>
+    Der <a href="https://www.ssb-leipzig.de/">Stadtsportbund Leipzig</a>&nbsp;dankt dem MC Postler Kay Dobeck für sein ehrenamtliches Engagement im Leipziger Vereinssport. Lest hier den Ehrenamtssteckbrief, den der Stadtsportbund zu Kay veröffentlicht hat.
+  </p>
+
+  <ul>
+    <li>🔗 <a href="https://www.mcpostleipzig.de/media/files/e9ebc04971afc46d8f571a4f0ffcd590687e3f7d.pdf">SSBL Steckbrief Kay Dobeck</a></li>
+  </ul>
+
+  <p>
+    Kay ist seit 2011 im MC Post Leipzig aktiv. Er hat den Verein durch schwierige Zeiten begleitet und dann im Dezember 2022 sein Amt im Vorstand für eine dringend benötigte Verschnaufpause niedergelegt. Sein Engagement im MC Post ist aber weiterhin groß. Er organisiert und plant und berät und schiebt an wo es nur geht, um den Verein voranzubringen. Insbesondere die Förderung der Sportjugend liegt Kay sehr am Herzen.
+  </p>
+
+  <p>
+    Kay, wir möchten dir an der Stelle auch ganz herzlich danken für die Zeit und die Kraft, die du in den Verein investierst. Wir haben gemeinsam noch viel vor!
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lisa Kirmse beim Hard Enduro Series Germany</title>
         <author>
@@ -478,35 +516,6 @@
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://www.mcpostleipzig.de/media/posts/37/e39598e10667350c40f0546794abd79afd902827.jpg" height="960" width="960" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.mcpostleipzig.de/media/posts/37/responsive/e39598e10667350c40f0546794abd79afd902827-xs.jpg 300w ,https://www.mcpostleipzig.de/media/posts/37/responsive/e39598e10667350c40f0546794abd79afd902827-sm.jpg 480w ,https://www.mcpostleipzig.de/media/posts/37/responsive/e39598e10667350c40f0546794abd79afd902827-md.jpg 768w">
       
-    </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Weihnachtsgrüße</title>
-        <author>
-            <name>Aramís Concepción Durán</name>
-        </author>
-        <link href="https://www.mcpostleipzig.de/weihnachtsgruesse/"/>
-        <id>https://www.mcpostleipzig.de/weihnachtsgruesse/</id>
-        <media:content url="https://www.mcpostleipzig.de/media/posts/36/6f1ba824a49e69c833bace278811855ecb3f30ac.jpg" medium="image" />
-
-        <updated>2023-01-26T10:26:04+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.mcpostleipzig.de/media/posts/36/6f1ba824a49e69c833bace278811855ecb3f30ac.jpg" alt="" />
-                    Zum Video auf Youtube
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.mcpostleipzig.de/media/posts/36/6f1ba824a49e69c833bace278811855ecb3f30ac.jpg" class="type:primaryImage" alt="" /></p>
-                
-    <figure class="post__image post__image--center">
-      <a href="https://www.youtube.com/watch?v=NX6HR27L7GU">
-        <img loading="lazy" src="https://www.mcpostleipzig.de/media/posts/36/yt.svg" height="false" width="false" alt="" >
-      </a>
-      <figcaption>Zum Video auf Youtube</figcaption>
     </figure>
             ]]>
         </content>
