@@ -10,11 +10,26 @@
     },
     "items": [
         {
+            "id": "https://www.mcpostleipzig.de/mc-post-beim-tsc-schoenborn/",
+            "url": "https://www.mcpostleipzig.de/mc-post-beim-tsc-schoenborn/",
+            "title": "MC Post beim TSC Schönborn",
+            "summary": "Der MC Post war wieder aktiv, diesmal beim fünften und sechsten Lauf zur Ostdeutschen Trialmeisterschaft am Samstag 06.05.2023 und Sonntag 07.05.2023 beim TSC Schönborn e.V. im ADAC.&nbsp; Unser Martin Riedel hat es am Samstag mit Platz 9 in die Top Ten der Klasse 5 geschafft,&hellip;",
+            "content_html": "\n  <p>\n    Der MC Post war wieder aktiv, diesmal beim fünften und sechsten Lauf zur Ostdeutschen Trialmeisterschaft am Samstag 06.05.2023 und Sonntag 07.05.2023 beim <a href=\"http://www.tsc-schoenborn.de/\">TSC Schönborn e.V. im ADAC</a>.&nbsp; Unser Martin Riedel hat es am Samstag mit Platz 9 in die Top Ten der Klasse 5 geschafft, dicht gefolgt vom MC Postler Michael Debus auf Platz 12.&nbsp; Am Sonntag konnten beide mit den Platzierungen 11 und 13 ihre Leistungen vom Vortag fast noch einmal bestätigen.\n  </p>\n\n  <p>\n    Unser Taavi Reingart konnte an diesem Wochenende für den MC Post wieder zwei Podestplätze in der Klasse 6 <i>Jugend</i> ergattern: einen zweiten Platz am Samstag und sogar einen ersten Platz am Sonntag.&nbsp; Mehr noch: Taavi konnte am Sonntag den gesamten Wettkampf bestreiten ohne dabei einen einzigen Strafpunkt zu erhalten! Ich war leider nicht dabei aber ich weiß, dass ich meine letzte und wieder komplett ungelochte Punktekarte des Tages mit einem fetten Grinsen einreichen würde.\n  </p>\n\n  <p>\n    Herzlichen Glückwunsch!&nbsp; 🎉🥳🎉\n  </p>",
+            "image": "https://www.mcpostleipzig.de/media/posts/56/5f4dc60c06c30113859a2680c82be398a30f7711.jpg",
+            "author": {
+                "name": "Aramís Concepción Durán"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-10T08:41:57+02:00",
+            "date_modified": "2023-05-10T09:19:44+02:00"
+        },
+        {
             "id": "https://www.mcpostleipzig.de/mc-post-auf-dem-sandberg/",
             "url": "https://www.mcpostleipzig.de/mc-post-auf-dem-sandberg/",
             "title": "MC Post auf dem Sandberg",
             "summary": "Am Samstag 29.04.2023 und Sonntag 30.04.2023 fanden beim MC Wismar e.V. der dritte und vierte Lauf zur diesjährigen&nbsp;Ostdeutschen Trialmeisterschaft statt.&nbsp; Die MC Postler Martin Riedel, Michael Debus und Lisa Kirmse haben in Klasse 5 mit den Platzierungen 15, 16 und 22 am Samstag sowie 13&hellip;",
-            "content_html": "\n  <p>\n    Am Samstag 29.04.2023 und Sonntag 30.04.2023 fanden beim MC Wismar e.V. der dritte und vierte Lauf zur diesjährigen&nbsp;Ostdeutschen Trialmeisterschaft statt.&nbsp; Die MC Postler Martin Riedel, Michael Debus und Lisa Kirmse haben in Klasse 5 mit den Platzierungen 15, 16 und 22 am Samstag sowie 13 und 21 am Sonntag solide sportliche Leistungen geliefert.\n  </p>\n\n  <p>\n    Obwohl die Klasse 6 Jugend zusammen mit der Klasse 6 Erwachsene gewertet wurde, konnte unser Nachwuchstalent Taavi Reingart an beiden Tagen einen Podestplatz erreichen: Platz 2 am Samstag mit nur zwei Strafpunkten Rückstand zum Sieger und Platz 3 am Sonntag mit nur einem Strafpunkt Rückstand zum Sieger. Das ist wirklich beachtlich!\n  </p>",
+            "content_html": "\n  <p>\n    Am Samstag 29.04.2023 und Sonntag 30.04.2023 fanden beim MC Wismar e.V. der dritte und vierte Lauf zur diesjährigen&nbsp;Ostdeutschen Trialmeisterschaft statt.&nbsp; Die MC Postler Martin Riedel, Michael Debus und Lisa Kirmse haben in Klasse 5 mit den Platzierungen 15, 16 und 22 am Samstag sowie 13 und 21 am Sonntag solide sportliche Leistungen geliefert.\n  </p>\n\n  <p>\n    Obwohl die Klasse 6 <i>Jugend</i> zusammen mit der Klasse 6 <i>Erwachsene</i> gewertet wurde, konnte unser Nachwuchstalent Taavi Reingart an beiden Tagen einen Podestplatz erreichen: Platz 2 am Samstag mit nur zwei Strafpunkten Rückstand zum Sieger und Platz 3 am Sonntag mit nur einem Strafpunkt Rückstand zum Sieger. Das ist wirklich beachtlich!\n  </p>",
             "image": "https://www.mcpostleipzig.de/media/posts/55/01309540e46a35a753dc3181b6cdff076a0ad50e.jpg",
             "author": {
                 "name": "Aramís Concepción Durán"
@@ -22,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2023-05-10T08:32:11+02:00",
-            "date_modified": "2023-05-10T08:32:11+02:00"
+            "date_modified": "2023-05-10T08:42:06+02:00"
         },
         {
             "id": "https://www.mcpostleipzig.de/dosb-lizenzierte-trainer-beim-mc-post/",
@@ -67,7 +82,7 @@
             "tags": [
             ],
             "date_published": "2023-05-03T17:16:00+02:00",
-            "date_modified": "2023-05-09T15:30:40+02:00"
+            "date_modified": "2023-05-10T09:18:10+02:00"
         },
         {
             "id": "https://www.mcpostleipzig.de/lisa-kirmse-beim-hard-enduro-series-germany/",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2023-04-10T13:34:15+02:00",
             "date_modified": "2023-05-06T08:34:55+02:00"
-        },
-        {
-            "id": "https://www.mcpostleipzig.de/cluboffenes-speedway-training-am-1-april-2023/",
-            "url": "https://www.mcpostleipzig.de/cluboffenes-speedway-training-am-1-april-2023/",
-            "title": "Cluboffenes Speedway Training am 1. April 2023",
-            "summary": "Wir laden euch alle herzlich zu unserer Eröffnung der diesjährigen Speedway-Saison am Samstag, 1. April 2023 in das Motodrom am Cottaweg ein.&nbsp; Das ist selbstverständlich kein Aprilscherz!&nbsp; Der Termin ist recht kurzfristig gewählt, aber wir haben letzte woche erfolgreich unsere Air Fences für diese Saison&hellip;",
-            "content_html": "\n  <p>\n    Wir laden euch alle herzlich zu unserer Eröffnung der diesjährigen Speedway-Saison am <strong>Samstag, 1. April 2023</strong> in das Motodrom am Cottaweg ein.&nbsp; Das ist selbstverständlich kein Aprilscherz!&nbsp; Der Termin ist recht kurzfristig gewählt, aber wir haben letzte woche erfolgreich unsere Air Fences für diese Saison installiert und möchten jetzt endlich loslegen. Wir bieten an diesem Tag unseren Sportlerinnen und Sportlern und unseren Gästen die Möglichkeit eines Trainings an.\n  </p>\n\n  <p>\n    Voraussetzung dafür ist die vorherige Anmeldung per E-Mail an<br><a href=\"mailto:info@mc-post-leipzig.de\">info@mc-post-leipzig.de</a>\n  </p>\n\n    <h2 id=\"gebt-bei-der-anmeldung-bitte-folgendes-an\">\n      Gebt bei der Anmeldung bitte folgendes an\n    </h2>\n\n  <ul>\n    <li>Fahrer/in</li><li>Klasse</li><li>Anzahl der Begleitpersonen</li>\n  </ul>\n\n    <h2 id=\"ablaufplan\">\n      Ablaufplan\n    </h2>\n\n  <ul>\n    <li><strong>09:00 Uhr</strong>&nbsp;Gates open</li><li><strong>09:30 Uhr</strong>&nbsp;Dokumente</li><li><strong>10:00 Uhr</strong>&nbsp;Fahrerbesprechung, anschließend Trainingsbeginn</li><li><strong>13:00 bis 14:00 Uhr</strong>&nbsp;Pause, <strong>Engine off!</strong></li><li><strong>16:00 Uhr</strong>&nbsp;Trainingsschluss</li>\n  </ul>\n\n  <p>\n    Der Imbiss wird geöffnet sein.\n  </p>\n\n    <h2 id=\"wettervorbehalt\">\n      Wettervorbehalt\n    </h2>\n\n  <p>\n    Sollte das Wetter an diesem Tag ein Training unter vernünftigen Bedingungen unmöglich machen, geben wir euch nach bestem Wissen und Gewissen Bescheid.&nbsp; Prüft also nach Möglichkeit am Vorabend noch mal unsere Website, die Socials oder eure Inbox auf Updates.\n  </p>\n\n  <p>\n    🏁🏁🏁&nbsp;<strong>Bis Samstag. Wir freuen uns auf euch!&nbsp;&nbsp;</strong>🏁🏁🏁\n  </p>",
-            "image": "https://www.mcpostleipzig.de/media/posts/44/d19753482822ce5b2e8ad08594694b0d35f1b113.jpg",
-            "author": {
-                "name": "Aramís Concepción Durán"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-03-29T18:53:48+02:00",
-            "date_modified": "2023-04-10T18:57:54+02:00"
         }
     ]
 }
