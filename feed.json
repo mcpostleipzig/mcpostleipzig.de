@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.mcpostleipzig.de/cluboffenes-speedway-training-am-22-juli/",
+            "url": "https://www.mcpostleipzig.de/cluboffenes-speedway-training-am-22-juli/",
+            "title": "Cluboffenes Speedway Training am 22. Juli",
+            "summary": "Am 22. Juli 2023 werden wir im Motodrom sowohl für unsere Fahrer als auch für Gäste ein cluboffenes Speedway-Training anbieten.&nbsp; Teilnahmevoraussetzung für vereinsfremde Fahrer ist die Anmeldung per E-Mail an&nbsp;s.lausch78@gmx.de.&nbsp; Bitte meldet euch möglichst frühzeitig an. Wir freuens uns auf euch!",
+            "content_html": "\n  <p>\n    Am 22. Juli 2023 werden wir im Motodrom sowohl für unsere Fahrer als auch für Gäste ein cluboffenes Speedway-Training anbieten.&nbsp; Teilnahmevoraussetzung für vereinsfremde Fahrer ist die Anmeldung per E-Mail an&nbsp;<a href=\"mailto:s.lausch78@gmx.de\">s.lausch78@gmx.de</a>.&nbsp; Bitte meldet euch möglichst frühzeitig an.\n  </p>\n\n    <h2 id=\"zeitplan\">\n      Zeitplan\n    </h2>\n\n  <ul>\n    <li><strong>09:00 Uhr</strong> Doors open</li><li><strong>09:30 Uhr</strong> Dokumente</li><li><strong>10:00 Uhr</strong> freies Training</li><li><strong>13:00 Uhr</strong> Mittagspause</li><li><strong>14:00 Uhr</strong> freies Training bis ca 16:00 Uhr</li>\n  </ul>\n\n  <p>\n    Wir freuens uns auf euch!\n  </p>",
+            "image": "https://www.mcpostleipzig.de/media/posts/64/5683d8774b832936a545d7620d667419242d2eda.jpg",
+            "author": {
+                "name": "Aramís Concepción Durán"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-16T07:51:01+02:00",
+            "date_modified": "2023-07-16T07:51:46+02:00"
+        },
+        {
             "id": "https://www.mcpostleipzig.de/ausschreibung-adac-stadion-trial/",
             "url": "https://www.mcpostleipzig.de/ausschreibung-adac-stadion-trial/",
             "title": "ADAC Stadion Trial Ausschreibung",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2023-05-10T08:32:11+02:00",
             "date_modified": "2023-05-10T08:42:06+02:00"
-        },
-        {
-            "id": "https://www.mcpostleipzig.de/dosb-lizenzierte-trainer-beim-mc-post/",
-            "url": "https://www.mcpostleipzig.de/dosb-lizenzierte-trainer-beim-mc-post/",
-            "title": "DOSB-lizenzierte Trainer beim MC Post",
-            "summary": "Wir gratulieren unserem Trial-Sektionsleiter Harald Schruttke zu seiner erfolgreich absolvierten Ausbildung zum DOSB-Trainer C Breitensport. 🍾🍾🍾 Mit Dietmar Tripke (Sektion Speedway) und Martin Riedel (Sektion Trial) zählt der MC Post Leipzig jetzt insgesamt drei lizenzierte Trainer in den eigenen Reihen. Damit sind wir gut aufgestellt,&hellip;",
-            "content_html": "\n  <p>\n    Wir gratulieren unserem Trial-Sektionsleiter Harald Schruttke zu seiner erfolgreich absolvierten Ausbildung zum DOSB-Trainer C Breitensport. 🍾🍾🍾 Mit Dietmar Tripke (Sektion Speedway) und Martin Riedel (Sektion Trial) zählt der MC Post Leipzig jetzt insgesamt drei lizenzierte Trainer in den eigenen Reihen. Damit sind wir gut aufgestellt, um in den nächsten Jahren den Jugendsport weiter voranzubringen.\n  </p>",
-            "image": "https://www.mcpostleipzig.de/media/posts/54/6241a7ef02699a293ae9e2c9452fbab59c4bcaf2.jpg",
-            "author": {
-                "name": "Aramís Concepción Durán"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-05-09T11:46:38+02:00",
-            "date_modified": "2023-05-09T11:46:38+02:00"
         }
     ]
 }
