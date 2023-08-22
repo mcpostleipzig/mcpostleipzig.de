@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.mcpostleipzig.de/wir-trauern-um-florian-niedermeier/",
+            "url": "https://www.mcpostleipzig.de/wir-trauern-um-florian-niedermeier/",
+            "title": "Wir trauern um Florian Niedermeier",
+            "summary": "Wir trauern um Dich, Florian Niedermeier, unseren lieben Freund und unser engagiertes Clubmitglied. Am Sonntag erreichte uns die unfassbare Nachricht. Uns fehlen die Worte. Unsere Gedanken gelten in dieser schweren Zeit Deiner Familie und all Deinen Angehörigen. Ruhe in Frieden, lieber Florian.",
+            "content_html": "\n    <h3 id=\"wir-trauern-um-dich-florian-niedermeier-unseren-lieben-freund-und-unser-engagiertes-clubmitglied-am-sonntag-erreichte-uns-die-unfassbare-nachricht-uns-fehlen-die-worte-unsere-gedanken-gelten-in-dieser-schweren-zeit-deiner-familie-und-all-deinen-angehoerigen\" class=\"align-center\">\n      Wir trauern um Dich, Florian Niedermeier, unseren lieben Freund und unser engagiertes Clubmitglied. Am Sonntag erreichte uns die unfassbare Nachricht. Uns fehlen die Worte. Unsere Gedanken gelten in dieser schweren Zeit Deiner Familie und all Deinen Angehörigen.\n    </h3>\n\n    <h2 id=\"ruhe-in-frieden-lieber-florian\" class=\"align-center\">\n      Ruhe in Frieden, lieber Florian.\n    </h2>\n\n  <p>\n    \n  </p>",
+            "image": "https://www.mcpostleipzig.de/media/posts/67/310db4bd0aac961782ce2a615308a81c5fdc64d5.png",
+            "author": {
+                "name": "Aramís Concepción Durán"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-22T19:51:48+02:00",
+            "date_modified": "2023-08-22T21:53:56+02:00"
+        },
+        {
             "id": "https://www.mcpostleipzig.de/adac-stoye-seitenwagen-und-speedway-herbsttreffen-am-16-september-2023/",
             "url": "https://www.mcpostleipzig.de/adac-stoye-seitenwagen-und-speedway-herbsttreffen-am-16-september-2023/",
             "title": "ADAC Stoye Seitenwagen und Speedway Herbsttreffen am 16. September 2023",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2023-05-24T10:04:51+02:00",
             "date_modified": "2023-05-30T15:31:22+02:00"
-        },
-        {
-            "id": "https://www.mcpostleipzig.de/mc-post-beim-20-autohaus-cup-in-meissen/",
-            "url": "https://www.mcpostleipzig.de/mc-post-beim-20-autohaus-cup-in-meissen/",
-            "title": "MC Post beim 20. Autohaus Cup in Meißen",
-            "summary": "Unsere Speedway-Fahrer Bruno Thomas, Manuel Rau und Tim Lumpitzsch lieferten beim 20. Autohaus Cup des MC Meissen e.V. am Samstag 06.05.2023 souveräne Ergebnisse. Bruno hat es gemeinsam mit Piotr Pioro in der 500 ccm Teamwertung auf Platz 2 und damit auf das Siegerpodest geschafft. Manuel&hellip;",
-            "content_html": "\n  <p>\n    Unsere Speedway-Fahrer Bruno Thomas, Manuel Rau und Tim Lumpitzsch lieferten beim 20. Autohaus Cup des MC Meissen e.V. am Samstag 06.05.2023 souveräne Ergebnisse. Bruno hat es gemeinsam mit Piotr Pioro in der 500 ccm Teamwertung auf Platz 2 und damit auf das Siegerpodest geschafft. Manuel fuhr zusammen mit Julian Bielmeier in der gleichen Wertung den 5. Platz ein. Tim hat es in der Junior B 125 ccm Wertung sogar auf den zweiten Platz geschafft und damit auch den zweiten von insgesamt drei Läufen zur Sachsenmeisterschaft in der 125 ccm Klasse absolviert. Großer Respekt an unsere drei MC Postler. Weiter so Jungs!\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://www.mcpostleipzig.de/media/posts/57/8c70c03f089ee269a72d86456d481a952942c684.jpg\" height=\"1200\" width=\"1600\" alt=\"Platz 2: Tim Lumpitsch vom MC Post Leipzig\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.mcpostleipzig.de/media/posts/57/responsive/8c70c03f089ee269a72d86456d481a952942c684-xs.jpg 300w ,https://www.mcpostleipzig.de/media/posts/57/responsive/8c70c03f089ee269a72d86456d481a952942c684-sm.jpg 480w ,https://www.mcpostleipzig.de/media/posts/57/responsive/8c70c03f089ee269a72d86456d481a952942c684-md.jpg 768w\">\n      <figcaption>Platz 2: Tim Lumpitsch vom MC Post Leipzig</figcaption>\n    </figure>",
-            "image": "https://www.mcpostleipzig.de/media/posts/57/57e503775a161a0a79af24e9b6229ee7c2c48222.jpg",
-            "author": {
-                "name": "Aramís Concepción Durán"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-05-11T09:40:10+02:00",
-            "date_modified": "2023-05-24T09:21:21+02:00"
         }
     ]
 }
