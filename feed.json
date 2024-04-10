@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.mcpostleipzig.de/veranstaltungen-2024/",
+            "url": "https://www.mcpostleipzig.de/veranstaltungen-2024/",
+            "title": "Veranstaltungen 2024",
+            "summary": "Unsere Veranstaltungen im Motodrom am Cottaweg im Jahr 2024: Achtung: Auf älteren Handzetteln und gegenwärtig auch auf Facebook ist für das ADAC Stadion Trial noch der 28. September notiert.&nbsp; Korrekt ist der 15. September.",
+            "content_html": "\n  <p>\n    Unsere Veranstaltungen im Motodrom am Cottaweg im Jahr 2024:\n  </p>\n\n  <ul>\n    <li><strong style=\"font-family: var(--editor-font-family); font-size: 1em; background-color: ; font-style: ; font-variant-ligatures: ; font-variant-caps: ;\">09. bis 11. Februar</strong><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal); background-color: ; font-style: ; font-variant-ligatures: ; font-variant-caps: ;\"> Motorradmesse Leipzig</span><br></li><li><strong>06. April</strong> Saisoneröffnungstraining</li><li><strong>04. Mai</strong> ADAC Old&amp;Hard Speedwaytreffen</li><li><strong>01. Juni</strong> ADAC Speedwayrennen: NBM und Rahmenprogramm</li><li><strong>28. Juni</strong> Sommersportwoche Leipzig</li><li><strong>14. September</strong> ADAC Stoye Seitenwagentreffen und Speedway-Oldtimer-Herbsttreffen</li><li><strong>15. September</strong> ADAC Stadion Trial: Lauf zur Ostdeutschen Trialmeisterschaft</li>\n  </ul>\n\n  <p>\n    <strong>Achtung:</strong> Auf älteren Handzetteln und gegenwärtig auch auf Facebook ist für das ADAC Stadion Trial noch der 28. September notiert.&nbsp; Korrekt ist der 15. September.\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://www.mcpostleipzig.de/media/posts/75/ee80478c248b4754729b41f25de894c0b9b405b9.jpg",
+            "author": {
+                "name": "Aramís Concepción Durán"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-10T07:20:54+02:00",
+            "date_modified": "2024-04-10T07:34:00+02:00"
+        },
+        {
             "id": "https://www.mcpostleipzig.de/saisoneroeffnung-samstag-06-april/",
             "url": "https://www.mcpostleipzig.de/saisoneroeffnung-samstag-06-april/",
             "title": "Saisoneröffnung: Samstag, 06. April",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2023-08-08T07:23:25+02:00",
             "date_modified": "2023-08-08T07:23:25+02:00"
-        },
-        {
-            "id": "https://www.mcpostleipzig.de/cluboffenes-speedway-training-am-22-juli/",
-            "url": "https://www.mcpostleipzig.de/cluboffenes-speedway-training-am-22-juli/",
-            "title": "Cluboffenes Speedway Training am 22. Juli",
-            "summary": "Am 22. Juli 2023 werden wir im Motodrom sowohl für unsere Fahrer als auch für Gäste ein cluboffenes Speedway-Training anbieten.&nbsp; Teilnahmevoraussetzung für vereinsfremde Fahrer ist die Anmeldung per E-Mail an&nbsp;s.lausch78@gmx.de.&nbsp; Bitte meldet euch möglichst frühzeitig an. Wir freuens uns auf euch!",
-            "content_html": "\n  <p>\n    Am 22. Juli 2023 werden wir im Motodrom sowohl für unsere Fahrer als auch für Gäste ein cluboffenes Speedway-Training anbieten.&nbsp; Teilnahmevoraussetzung für vereinsfremde Fahrer ist die Anmeldung per E-Mail an&nbsp;<a href=\"mailto:s.lausch78@gmx.de\">s.lausch78@gmx.de</a>.&nbsp; Bitte meldet euch möglichst frühzeitig an.\n  </p>\n\n    <h2 id=\"zeitplan\">\n      Zeitplan\n    </h2>\n\n  <ul>\n    <li><strong>09:00 Uhr</strong> Doors open</li><li><strong>09:30 Uhr</strong> Dokumente</li><li><strong>10:00 Uhr</strong> freies Training</li><li><strong>13:00 Uhr</strong> Mittagspause</li><li><strong>14:00 Uhr</strong> freies Training bis ca 16:00 Uhr</li>\n  </ul>\n\n  <p>\n    Wir freuens uns auf euch!\n  </p>",
-            "image": "https://www.mcpostleipzig.de/media/posts/64/5683d8774b832936a545d7620d667419242d2eda.jpg",
-            "author": {
-                "name": "Aramís Concepción Durán"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-07-16T07:51:01+02:00",
-            "date_modified": "2023-07-16T07:51:46+02:00"
         }
     ]
 }
