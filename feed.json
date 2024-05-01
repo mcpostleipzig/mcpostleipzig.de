@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.mcpostleipzig.de/adac-old-and-hard-speedway-und-flattrack-treffen/",
+            "url": "https://www.mcpostleipzig.de/adac-old-and-hard-speedway-und-flattrack-treffen/",
+            "title": "ADAC Old &amp; Hard Speedway- und Flattrack-Treffen",
+            "summary": "Am Samstag, den 04. Mai ab 10:30 Uhr feiern wir mit dem zwanzigsten internationalen ADAC Old &amp; Hard Speedway- und neuerdings auch Flattrack-Treffen den Leipziger Bahnsport mit Jung und Alt im Motodrom am Cottaweg.&nbsp; Alle Freunde des Bahnsports sind herzlich eingeladen, methanolbetriebene Speedway Bikes verschiedener&hellip;",
+            "content_html": "\n  <p>\n    Am Samstag, den 04. Mai ab 10:30 Uhr feiern wir mit dem zwanzigsten internationalen ADAC Old &amp; Hard Speedway- und neuerdings auch Flattrack-Treffen den Leipziger Bahnsport mit Jung und Alt im Motodrom am Cottaweg.&nbsp; Alle Freunde des Bahnsports sind herzlich eingeladen, methanolbetriebene Speedway Bikes verschiedener Dekaden zu erleben.\n  </p>\n\n  <p>\n    Der Eintritt ist frei und die Preise am Imbiss familienfreundlich.&nbsp; Zutritt zum Fahrerlager ist während des Treffens gestattet.\n  </p>\n\n  <p>\n    <a href=\"https://git.sr.ht/~aramis/mcpostleipzig/blob/master/input/media/files/f9604e59749ffe63fe19796f3042d09ab8634f59.pdf\">Fahrerinformationen (Ausschreibung)</a>\n  </p>\n\n  <p>\n    Wir freuen uns auf euch!\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://www.mcpostleipzig.de/media/posts/76/9f1aee54014a087c677c3fa230c07061e2f71eae.jpg",
+            "author": {
+                "name": "Aramís Concepción Durán"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-01T09:12:51+02:00",
+            "date_modified": "2024-05-01T09:12:51+02:00"
+        },
+        {
             "id": "https://www.mcpostleipzig.de/veranstaltungen-2024/",
             "url": "https://www.mcpostleipzig.de/veranstaltungen-2024/",
             "title": "Veranstaltungen 2024",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2023-08-08T07:43:26+02:00",
             "date_modified": "2023-10-04T17:43:28+02:00"
-        },
-        {
-            "id": "https://www.mcpostleipzig.de/cluboffenes-speedway-training-am-19-august/",
-            "url": "https://www.mcpostleipzig.de/cluboffenes-speedway-training-am-19-august/",
-            "title": "Cluboffenes Speedway Training am 19. August",
-            "summary": "Teilnahme nur mit vorheriger Anmeldung bei Sandra:&nbsp;s.lausch78@gmx.de Bitte nennt uns bei der Anmeldung: Wir freuen uns auf euch!",
-            "content_html": "\n  <p>\n    Teilnahme nur mit vorheriger Anmeldung bei Sandra:&nbsp;<a href=\"mailto:s.lausch78@gmx.de\">s.lausch78@gmx.de</a>\n  </p>\n\n  <p>\n    Bitte nennt uns bei der Anmeldung:\n  </p>\n\n  <ul>\n    <li>den Namen des Fahrers/ der Fahrerin</li><li>die Klasse</li><li>die Anzahl der Begleitpersonen</li>\n  </ul>\n\n  <p>\n    Wir freuen uns auf euch!\n  </p>",
-            "image": "https://www.mcpostleipzig.de/media/posts/65/dd2c4ff2b9c0d051f6d3f4104670631d09e2b34e.jpg",
-            "author": {
-                "name": "Aramís Concepción Durán"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-08-08T07:23:25+02:00",
-            "date_modified": "2023-08-08T07:23:25+02:00"
         }
     ]
 }
